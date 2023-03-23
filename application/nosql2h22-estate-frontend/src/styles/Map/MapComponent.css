@@ -1,0 +1,19 @@
+.map-component-container{
+  display: flex;
+  align-items:center;
+}
+
+.map-houses-list{
+  margin-top: 135px;
+  width: 388px;
+  height: 875px;
+  background-color: #ffffff;
+  position: absolute;
+  box-shadow: 5px 1px 5px rgba(0, 0, 0, 0.22);
+}
+
+.map-houses-map{
+  width: 1200px;
+  height: 950px;
+  margin-left: 300px;
+}

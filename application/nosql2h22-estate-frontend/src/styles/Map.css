@@ -1,0 +1,8 @@
+.map-component{
+  height: calc(100vh - 140px)
+}
+
+.map-component-container {
+  position: absolute;
+  overflow:hidden;
+}

@@ -1,0 +1,20 @@
+.sidebar{
+  width: 305px;
+	height: 100vh;
+	padding: 8px 8px 8px 8px;
+	background: #202123;
+  overflow:hidden;
+}
+
+.content{
+  background-color: #aaaaaa;
+  border: 1px solid black;
+}
+
+.container-content{
+  background-color: #F3F3F3;
+}
+
+.backgroundMain {
+  background: #f3f3f3;
+}

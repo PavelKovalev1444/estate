@@ -1,0 +1,15 @@
+.map-filter-panel{
+  margin-top: 27px;
+  width: 368px;
+  height: 42px;
+}
+
+.house-address-items-container{
+  width: 388px;
+  height: 875px;
+  overflow-y:scroll;
+}
+
+.map-panel{
+  display:flex;
+}
